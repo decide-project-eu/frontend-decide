@@ -115,6 +115,8 @@ USE_L10N = True
 
 USE_TZ = True
 
+REGISTRATION_OPEN = False
+
 #############################################################
 # SRC: https://devcenter.heroku.com/articles/django-assets
 
